@@ -11,10 +11,10 @@ A business case project using **Neural Networks** for binary classification.
 The goal is to detect whether audiobook customers will make another purchase within **the next 6 months** based on their activity over the **previous 2 years**.
 
 ### **🔹 Key Skills & Techniques**  
-- Neural Network Implementation  
-- Binary Classification  
-- Data Preprocessing  
-- Imbalanced Dataset Handling  
+- ✅ Neural Network Implementation  
+- ✅ Binary Classification  
+- ✅ Data Preprocessing  
+- ✅ Imbalanced Dataset Handling  
 
 ---
 
@@ -23,11 +23,11 @@ Course projects from the **IBM Data Science Professional Certificate** on **Cour
 This section includes **regression tasks** and hands-on practice with **classification algorithms**.
 
 ### **🔹 Key Skills & Techniques**  
-- Linear Regression
-- Logistic Regression  
-- KNN
-- Decision Trees  
-- Support Vector Machines (SVM)
+- ✅ Linear Regression
+- ✅ Logistic Regression  
+- ✅ KNN
+- ✅ Decision Trees  
+- ✅ Support Vector Machines (SVM)
 
 ---
 
@@ -40,10 +40,10 @@ The goal is to identify how song popularity evolved over time.
 
 
 ### **🔹 Key Skills & Techniques**  
-- Preprocessing  
-- Feature Engineering  
-- Exploratory Data Analysis (EDA)
-- Pipeline Implementation  
-- Random Forest Regression  
+- ✅ Preprocessing  
+- ✅ Feature Engineering  
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Pipeline Implementation  
+- ✅ Random Forest Regression  
 
 
