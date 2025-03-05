@@ -28,13 +28,6 @@ This dataset contains **60,000+ Spotify tracks** across **six different language
 - ✅ Trend Analysis  
 - ✅ Data Visualization  
 
----
 
-## **[Project 3: Binary Classification Exercise](./Exercises) 🤖**  
-A deep learning-based binary classification task using **Neural Networks**.  
-
-### **🔹 Key Skills & Techniques**  
-- ✅ Neural Network Implementation  
-- ✅ Binary Classification  
 
 
