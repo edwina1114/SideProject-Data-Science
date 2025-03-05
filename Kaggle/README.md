@@ -7,8 +7,7 @@ A Kaggle competition that involves predicting house prices in Ames, Iowa using *
 - ✅ Data Preprocessing  
 - ✅ Feature Engineering  
 - ✅ Exploratory Data Analysis (EDA)  
-- ✅ Data Visualization  
-- ✅ Machine Learning Pipeline  
+- ✅ Pipeline Implement
 - ✅ Random Forest Regression  
 
 ---
