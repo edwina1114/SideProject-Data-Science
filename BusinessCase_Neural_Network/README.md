@@ -1,12 +1,22 @@
 # **💡 Projects Overview**  
+This project applies **Neural Networks** for a **binary classification** task: predicting whether customers will make another purchase from an **Audiobook App** based on their past behavior.  
 
-## **[Project 1: Housing Prices Prediction (Kaggle Competition)](./Competition) 🏠**  
-A Kaggle competition that involves predicting house prices in Ames, Iowa using **79 explanatory variables** that describe different aspects of residential homes.  
+---
 
-### **🔹 Key Skills & Techniques**  
-- ✅ Data Preprocessing  
-- ✅ Feature Engineering  
-- ✅ Exploratory Data Analysis (EDA)  
-- ✅ Pipeline Implement
-- ✅ Random Forest Regression
+📌 **Business Context:**  
+- **Inputs:** Customer activity over the **past 2 years**  
+- **Target:** Will the customer buy again in the **next 6 months**?  
+- **Classes:**  
+  - `0` → Won't buy again  
+  - `1` → Will buy again  
+
+---
+
+## **🔹 Key Techniques Used**  
+- ✅ **Neural Network Implementation** 
+- ✅ **Data Preprocessing** 
+- ✅ **Handling Imbalanced Data** 
+- ✅ **Feature Engineering** 
+- ✅ **Model Evaluation** 
+
 
