@@ -1,28 +1,47 @@
 # **💡 Projects Overview**  
 
-## **[Project 1: Housing Prices Prediction (Kaggle Competition)](./Competition) 🏠**  
-A Kaggle competition that involves predicting house prices in Ames, Iowa using **79 explanatory variables** that describe different aspects of residential homes.  
+## **[IBM Course Project 1: House Sales in King County, USA](./Coursera_IBM/Regression.ipynb) 🏠**  
+
+This project analyzes house sales data from King County, including Seattle, covering transactions from May 2014 to May 2015.
+
+The dataset includes 21 variables describing various housing characteristics.
+
+The goal is to build a Linear Regression model to predict house prices.
 
 ### **🔹 Key Skills & Techniques**  
-- ✅ Data Preprocessing  
+
+- ✅ Data Wrangling  
+
 - ✅ Feature Engineering  
+
 - ✅ Exploratory Data Analysis (EDA)  
-- ✅ Pipeline Implement
-- ✅ Random Forest Regression  
+
+- ✅ Pipeline Implementation
+
+- ✅ Linear Regression Model
+
+- ✅ Model Evaluation
 
 ---
 
-## **[Project 3: Data Visualization (Spotify Tracks)](./Data_Visualization) 🎵**  
-📌 **Dataset:** [Spotify Tracks Dataset (Updated Weekly)](https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week/data)  
+## **[IBM Course Project 2: Classification with Python](./Coursera_IBM/Classification.ipynb) 🤖**  
 
-This dataset contains **60,000+ Spotify tracks** across **six different languages** (English, Hindi, Tamil, Telugu, Malayalam, Korean), along with their audio features.  
+This project applies classification algorithms to build and evaluate predictive models.
 
-### **🔹 Exploratory Data Analysis (EDA)**  
-- 📌 **PART 1:** Which song languages became popular over the years?  
-- 📌 **PART 2:** The sharp rise of Hindi music in 2007  
-- 📌 **PART 3:** The rise of K-pop  
+The dataset includes 22 weather-related variables, spanning daily observations from 2008 to 2017.
+
+The objective is to train classification models and assess their performance using various evaluation metrics.
 
 ### **🔹 Key Skills & Techniques**  
-- ✅ Data Exploration  
-- ✅ Trend Analysis  
-- ✅ Data Visualization  
+
+- ✅ Data Wrangling
+  
+- ✅ Classification Model
+  
+      1. Linear Regression
+      2. KNN
+      3. Decision Trees
+      4. Logistic Regression
+      5. SVM   
+
+- ✅ Model Evaluation
