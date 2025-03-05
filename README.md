@@ -11,7 +11,7 @@ Each project includes **real-world business cases, Kaggle competitions, and cour
 
 ## **🚀 Projects Overview**  
 
-### **[🎧 Audiobooks Purchase Prediction](./BusinessCase_Neural_Network)**  
+### **[🎧 Audiobooks Purchase Prediction](./Audiobooks Purchase Prediction)**  
 A business case using **Neural Networks** to predict audiobook customer purchases.  
 
 📌 **Goal:** Determine if a customer will make another purchase within **6 months**, based on their **past 2 years** of activity.  
