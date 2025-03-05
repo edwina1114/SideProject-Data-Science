@@ -38,10 +38,10 @@ The objective is to train classification models and assess their performance usi
   
 - ✅ Classification Model
   
-      1. Linear Regression
-      2. KNN
-      3. Decision Trees
-      4. Logistic Regression
-      5. SVM   
+  - Linear Regression
+  - KNN
+  - Decision Trees
+  - Logistic Regression
+  - SVM   
 
 - ✅ Model Evaluation
