@@ -1,49 +1,37 @@
 # **💡 About This Repository**  
-This repository showcases **self-learning projects** to enhance skills in:  
+This repository showcases **self-learning projects** in:  
 - Machine Learning Algorithms  
 - Exploratory Data Analysis  
-- Feature Engineering
+- Feature Engineering  
+- Data Visualization  
+
+Each project includes **real-world business cases, Kaggle competitions, and course exercises** with hands-on implementation.  
 
 ---
 
-## **[Project 1: Audiobooks Purchase Prediction](./BusinessCase_Neural_Network) 🎧**  
-A business case project using **Neural Networks** for binary classification.  
-The goal is to detect whether audiobook customers will make another purchase within **the next 6 months** based on their activity over the **previous 2 years**.
+## **🚀 Projects Overview**  
 
-### **🔹 Key Skills & Techniques**  
-- ✅ Neural Network Implementation  
-- ✅ Binary Classification  
-- ✅ Data Preprocessing  
-- ✅ Imbalanced Dataset Handling  
+### **[🎧 Audiobooks Purchase Prediction](./BusinessCase_Neural_Network)**  
+A business case using **Neural Networks** to predict audiobook customer purchases.  
 
----
+📌 **Goal:** Determine if a customer will make another purchase within **6 months**, based on their **past 2 years** of activity.  
 
-## **[Project 2: IBM Data Science Course (Coursera)](./Coursera_IBM) 📊**  
-Course projects from the **IBM Data Science Professional Certificate** on **Coursera**.  
-This section includes **regression tasks** and hands-on practice with **classification algorithms**.
-
-### **🔹 Key Skills & Techniques**  
-- ✅ Linear Regression
-- ✅ Logistic Regression  
-- ✅ KNN
-- ✅ Decision Trees  
-- ✅ Support Vector Machines (SVM)
+🔗 **[Read More](./BusinessCase_Neural_Network/README.md)**  
 
 ---
 
-## **[Project 3: Kaggle](./Kaggle) 🏠**  
+### **[📚 IBM Data Science Course (Coursera)](./Coursera_IBM)**  
+Course projects from the **IBM Data Science Professional Certificate**, focusing on **regression and classification**.  
 
-1. A Kaggle competition predicting housing prices in Ames, Iowa using 79 explanatory variables describing various aspects of residential homes.
+🔗 **[Read More](./Coursera_IBM/README.md)**  
 
-2. A side project analyzing **Spotify track trends** across **60,000+ songs** in six languages.  
-The goal is to identify how song popularity evolved over time.
+---
 
+### **[🏆 Kaggle Projects](./Kaggle)**  
+Contains **Kaggle competitions and side projects**, focusing on **predictive modeling and exploratory data analysis**.  
 
-### **🔹 Key Skills & Techniques**  
-- ✅ Preprocessing  
-- ✅ Feature Engineering  
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Pipeline Implementation  
-- ✅ Random Forest Regression  
+📌 **Included Projects:**  
+- **🏠 Housing Prices Prediction** – Predicting home prices with 79 explanatory variables.  
+- **🎵 Spotify Track Trends** – Analyzing **60,000+ songs** across six languages to explore music trends.  
 
-
+🔗 **[Read More](./Kaggle/README.md)**  
