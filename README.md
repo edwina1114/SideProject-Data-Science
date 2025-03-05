@@ -16,14 +16,10 @@ A business case using **Neural Networks** to predict audiobook customer purchase
 
 📌 **Goal:** Determine if a customer will make another purchase within **6 months**, based on their **past 2 years** of activity.  
 
-🔗 **[Read More](./Audiobooks_Purchase_Prediction/README.md)**  
-
 ---
 
 ### **[📚 IBM Data Science Course (Coursera)](./Coursera_IBM)**  
 Course projects from the **IBM Data Science Professional Certificate**, focusing on **regression and classification**.  
-
-🔗 **[Read More](./Coursera_IBM/README.md)**  
 
 ---
 
@@ -33,5 +29,3 @@ Contains **Kaggle competitions and side projects**, focusing on **predictive mod
 📌 **Included Projects:**  
 - **🏠 Housing Prices Prediction** – Predicting home prices with 79 explanatory variables.  
 - **🎵 Spotify Track Trends** – Analyzing **60,000+ songs** across six languages to explore music trends.  
-
-🔗 **[Read More](./Kaggle/README.md)**  
