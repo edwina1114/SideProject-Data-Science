@@ -3,7 +3,7 @@ This project applies **Neural Networks** for a **binary classification** task: p
 
 ---
 
-📌 **Business Context:**  
+### **📌 Business Context:**  
 - **Inputs:** Customer activity over the **past 2 years**  
 - **Target:** Will the customer buy again in the **next 6 months**?  
 - **Classes:**  
@@ -12,7 +12,7 @@ This project applies **Neural Networks** for a **binary classification** task: p
 
 ---
 
-## **🔹 Key Techniques Used**  
+### **🔹 Key Techniques Used**  
 - ✅ **Neural Network Implementation** 
 - ✅ **Data Preprocessing** 
 - ✅ **Handling Imbalanced Data** 
