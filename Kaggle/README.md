@@ -34,7 +34,7 @@ This dataset contains **60,000+ Spotify tracks** across **six different language
 
 ### **🔹 Key Skills & Techniques**  
 
-- ✅ Data Exploration  
+- ✅ Exploratory Data Analysis (EDA) 
 
 - ✅ Trend Analysis  
 
